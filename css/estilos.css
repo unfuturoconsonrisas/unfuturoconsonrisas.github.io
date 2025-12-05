@@ -219,7 +219,7 @@ html, body {
 @media (max-width: 768px) {
     .hero-overlay {
         width: 85%;       /* se adapta a pantallas más pequeñas */
-        height: 60%;
+        height: 900%;
         padding: 18px 20px;
     }
     .hero-content h1 {
