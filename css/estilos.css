@@ -233,7 +233,7 @@ html, body {
 @media (max-width: 480px) {
     .hero-overlay {
         width: 95%;       /* ocupa casi todo el ancho en móviles */
-        height: auto;     /* se adapta al contenido */
+        height: 50%;     /* se adapta al contenido */
         padding: 15px 15px;
     }
     .hero-content h1 {
